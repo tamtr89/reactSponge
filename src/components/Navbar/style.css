@@ -1,0 +1,44 @@
+nav {
+    width: 100%;
+    color: #fff;
+    margin-bottom: 25px;
+    background-color: rgba(56, 56, 56, 0.884);
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  a {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color: #fed420;
+  }
+  
+  a:hover {
+    color: #20fece;
+    text-decoration: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 15px 0;
+    width: 40%;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+  }
+
+  .brand{
+    font-size: 1.9rem;
+    text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 1px 2px 0px;
+  }
+  
+  ul {
+    display: flex;
+    align-items: center;
+  }
+  
+  @media only screen and (max-width: 750px) {
+    #current-score, #top-score, #message, .brand {
+      font-size: .7rem;
+      margin-top: 10px;
+      padding: 0;
+    }
+}
