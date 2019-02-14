@@ -1,15 +1,16 @@
 # Sponge Memory Game
 
-<h2>Build with <strong>React</strong>. 
+<h2>Build with <strong>React</strong>.</h2>
 
-
+Check it out here -> [Website](https://tamtr89.github.io/reactSponge/).
 
 
 <img src="https://media.giphy.com/media/1XbHnImtGu4nEkBWnE/giphy.gif">
 
 ## Overview
 
-This is a memory game using React. The application's UI is split into four components.
+For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+
 Test your memory with your favorite buddy Sponge. Click on each card once to win the game. But don't click on a same character twice, or it's game over for you!
 
 ## Technologies used
@@ -19,8 +20,8 @@ Test your memory with your favorite buddy Sponge. Click on each card once to win
 * Bootstrap
 * CSS
 
-## Website
-Check it out [here](https://tamtr89.github.io/reactSponge/).</h2>
+Spongebon Squarepants: [Images Source](https://www.kisspng.com/free/spongebob-squarepants.html).
+ 
 
 ## Copyright
 
