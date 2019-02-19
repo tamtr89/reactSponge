@@ -26,3 +26,9 @@ Spongebon Squarepants: [Images Source](https://www.kisspng.com/free/spongebob-sq
 ## Copyright
 
 Tam Tran © 2019.  All rights reserved.
+
+<h1>😃 Thank you for watching!</h1>
+
+* [LinkedIn](https://www.linkedin.com/in/tam-tran-2b1296142/) - My Profile
+
+* [Portfolio](https://tamtr89.github.io/Tran.Portfolio/) - 💓
