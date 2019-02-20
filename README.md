@@ -20,7 +20,7 @@ Test your memory with your favorite buddy Sponge. Click on each card once to win
 * Bootstrap
 * CSS
 
-Spongebon Squarepants: [Images Source](https://www.kisspng.com/free/spongebob-squarepants.html).
+Spongebob Squarepants: [Images Source](https://www.kisspng.com/free/spongebob-squarepants.html).
  
 
 ## Copyright
