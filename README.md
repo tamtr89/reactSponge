@@ -29,6 +29,5 @@ Tam Tran © 2019.  All rights reserved.
 
 <h1>😃 Thank you for visiting!</h1>
 
-* [LinkedIn](https://www.linkedin.com/in/tam-tran-2b1296142/) - My Profile
 
 * [Portfolio](https://tamtr89.github.io/Tran.Portfolio/) - 💓
